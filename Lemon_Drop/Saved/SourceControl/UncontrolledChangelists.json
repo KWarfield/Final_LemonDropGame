@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap"
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Inputs/Input_interact.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Inputs/Input_Look.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_PlayerController.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_GameMode.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/PC/Downloads/EUnreal/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/PC/Downloads/Lemon Drop game/Lemon_Drop/Content/BP_interactables/Interact1.uasset"
 			]
 		}
 	]
