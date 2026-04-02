@@ -3378,3 +3378,1515 @@ Make sure 'BP_Door_C' has been compiled for  Reverse
 [2026.04.02-19.37.58:699][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.02-19.37.58:699][697]AssetCheck: /Game/Lemon_DropMap Validating asset
 [2026.04.02-19.38.00:156][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.04.02-19.41.02:475][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2807.555420
+[2026.04.02-19.41.03:474][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-19.41.03:474][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2808.221924, Update Interval: 344.798126
+[2026.04.02-19.47.11:440][619]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.02-19.47.11:450][619]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.02-19.47.11:458][619]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.02-19.47.11:477][621]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.02-19.47.17:286][ 64]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2026.04.02-19.47.17:295][ 64]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.02-19.47.22:960][397]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.02-19.47.22:969][397]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.02-19.47.22:976][397]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.02-19.47.22:990][398]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.02-19.47.31:926][112]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TurretProjectile
+[2026.04.02-19.47.31:941][112]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.02-19.47.34:893][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2026.04.02-19.47.34:894][343]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.02-19.47.45:709][695]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.02-19.47.47:270][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3212.351562
+[2026.04.02-19.47.47:386][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-19.47.47:386][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3212.447754, Update Interval: 307.102875
+[2026.04.02-19.47.50:004][921]LogEditorTransaction: Undo Modify Component Scale
+[2026.04.02-19.48.39:074][447]LogEditorTransaction: Undo Modify Component Scale
+[2026.04.02-19.48.50:847][ 13]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.48.51:203][ 18]LogEditorTransaction: Undo Add Component
+[2026.04.02-19.50.22:201][811]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.50.47:673][190]LogEditorTransaction: Undo Modify Component Location
+[2026.04.02-19.51.08:160][289]LogEditorTransaction: Undo Modify Component Scale
+[2026.04.02-19.51.11:118][432]LogEditorTransaction: Undo Modify Component Scale
+[2026.04.02-19.51.13:821][576]LogEditorTransaction: Undo Modify Component Scale
+[2026.04.02-19.51.22:631][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.04.02-19.51.23:394][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.51.23:432][ 60]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.51.23:438][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.51.23:440][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.51.23:440][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.51.23:443][ 60]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.51.23:443][ 60]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy9A3EF1364A85E0FF56EC78BA5F938D4B.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.51.23:457][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.806 ms (total: 3.30 sec)
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: Enabled validators:
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.51.23:492][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.51.23:492][ 60]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.52.20:934][539]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.52.21:787][569]LogEditorTransaction: Undo Add Component
+[2026.04.02-19.53.22:993][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.04.02-19.53.23:670][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.53.23:708][220]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.53.23:714][220]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.53.23:714][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.53.23:714][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.53.23:718][220]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.53.23:719][220]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy79AA981F49B3D995107F1BBCA7BF4AB6.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.53.23:728][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.948 ms (total: 3.36 sec)
+[2026.04.02-19.53.23:761][220]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.53.23:761][220]LogContentValidation: Enabled validators:
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.53.23:761][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.53.23:761][220]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.53.34:774][808]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.53.39:213][ 21]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.53.40:721][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3565.797852
+[2026.04.02-19.53.40:871][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-19.53.40:871][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3565.924805, Update Interval: 343.347870
+[2026.04.02-19.54.10:922][955]LogEditorTransaction: Undo Attach Component
+[2026.04.02-19.54.11:968][997]LogEditorTransaction: Undo Detach Component
+[2026.04.02-19.54.12:506][ 23]LogEditorTransaction: Undo Detach Component
+[2026.04.02-19.54.21:616][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.04.02-19.54.22:712][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.54.22:754][543]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.54.22:764][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.54.22:764][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.54.22:764][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.54.22:769][543]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.54.22:769][543]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy986504804230DEE2FEC21F8444002770.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.54.22:778][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.167 ms (total: 3.43 sec)
+[2026.04.02-19.54.22:807][543]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.54.22:807][543]LogContentValidation: Enabled validators:
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.54.22:807][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.54.22:807][543]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.54.27:014][761]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.54.34:266][131]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.54.37:610][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.02-19.54.38:557][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.54.38:594][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.54.38:605][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.54.38:605][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.54.38:605][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.54.38:608][329]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.54.38:609][329]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyD15DD36F42832CB2410F2689840752C4.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.54.38:619][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.367 ms (total: 3.49 sec)
+[2026.04.02-19.54.38:655][329]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.54.38:655][329]LogContentValidation: Enabled validators:
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.54.38:655][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.54.38:655][329]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.55.02:929][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.02-19.55.02:933][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lemon_DropMap' took 0.027
+[2026.04.02-19.55.02:934][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-19.55.02:934][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-19.55.02:934][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.02-19.55.02:937][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_TurretProjectile_Auto2
+[2026.04.02-19.55.02:937][733]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile_Auto21D0E5BD044E3B33AD142DE9E86871CBE.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto2.uasset'
+[2026.04.02-19.55.02:938][733]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.04.02-19.56.09:597][824]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.02-19.56.31:134][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.04.02-19.56.32:637][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.56.32:668][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.56.32:678][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.56.32:678][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.56.32:678][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.56.32:683][ 97]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.56.32:683][ 97]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyCA95AAD943B1070F5A949A8300EFF976.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.56.32:693][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.061 ms (total: 3.54 sec)
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: Enabled validators:
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.56.32:729][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.56.32:729][ 97]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.57.18:993][450]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.57.31:729][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.04.02-19.57.32:901][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.57.32:940][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.57.32:951][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.57.32:951][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.57.32:951][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.57.32:955][153]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.57.32:956][153]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy8ABCE2C24BD537004C8D0EB87D122DE4.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.57.32:964][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.106 ms (total: 3.61 sec)
+[2026.04.02-19.57.33:002][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.57.33:002][153]LogContentValidation: Enabled validators:
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.57.33:002][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.57.33:003][153]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.58.21:596][776]LogEditorTransaction: Undo Modify Component Location
+[2026.04.02-19.58.22:454][805]Cmd: TRANSACTION UNDO
+[2026.04.02-19.58.22:454][805]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.58.22:921][826]Cmd: TRANSACTION UNDO
+[2026.04.02-19.58.22:921][826]LogEditorTransaction: Undo Modify Component(s)
+[2026.04.02-19.59.02:729][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.04.02-19.59.03:741][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.59.03:783][999]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.59.03:793][999]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.59.03:793][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.59.03:793][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.59.03:796][999]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.59.03:797][999]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyD245089E4F7C23679C55768F8C484AC8.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.59.03:807][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.073 ms (total: 3.67 sec)
+[2026.04.02-19.59.03:835][999]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.59.03:835][999]LogContentValidation: Enabled validators:
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.59.03:836][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.59.03:836][999]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-19.59.50:626][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.02-19.59.51:289][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-19.59.51:348][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-19.59.51:387][719]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-19.59.51:388][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-19.59.51:388][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-19.59.51:392][719]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-19.59.51:393][719]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy4BC3BAB04172DC89BE47DD971547AE96.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-19.59.51:402][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.237 ms (total: 3.79 sec)
+[2026.04.02-19.59.51:438][719]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-19.59.51:438][719]LogContentValidation: Enabled validators:
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-19.59.51:438][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-19.59.51:438][719]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.00.23:478][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3968.549316
+[2026.04.02-20.00.23:581][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.00.23:581][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3968.637207, Update Interval: 337.700745
+[2026.04.02-20.05.03:157][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.04.02-20.05.03:161][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lemon_DropMap' took 0.030
+[2026.04.02-20.05.03:162][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.05.03:162][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.05.03:162][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.04.02-20.05.03:164][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_TurretProjectile_Auto3
+[2026.04.02-20.05.03:164][150]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile_Auto3363230674FBCD1CD9358E894929C4DDD.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto3.uasset'
+[2026.04.02-20.05.03:165][150]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.04.02-20.06.54:010][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4359.068359
+[2026.04.02-20.06.54:134][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.06.54:134][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4359.170898, Update Interval: 318.241516
+[2026.04.02-20.07.28:230][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.04.02-20.07.30:238][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.30:289][160]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.07.30:329][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.07.30:329][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.07.30:329][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.07.30:333][160]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.07.30:334][160]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy2FE2AEFF41C2532A72F672A2DEE52914.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.07.30:342][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.011 ms (total: 3.89 sec)
+[2026.04.02-20.07.30:380][160]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.30:380][160]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.30:380][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.30:380][160]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.07.35:164][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.35:200][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.07.35:200][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.07.35:200][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.07.35:205][472]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.07.35:206][472]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyBF1154CF48DFD4610671E6A2E0890000.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.07.35:216][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.783 ms (total: 3.94 sec)
+[2026.04.02-20.07.35:252][472]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.35:253][472]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.35:253][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.35:253][472]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.07.36:154][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.36:214][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfaces/Interface_Interact] ([2] browsable assets)...
+[2026.04.02-20.07.36:214][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfaces/Interface_Interact]
+[2026.04.02-20.07.36:214][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interface_Interact" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Interfaces/Interface_Interact.uasset" SILENT=true
+[2026.04.02-20.07.36:216][537]LogSavePackage: Moving output files for package: /Game/Interfaces/Interface_Interact
+[2026.04.02-20.07.36:217][537]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Interface_Interact74FFF77741B4AD4925D357A1CC104B75.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Interfaces/Interface_Interact.uasset'
+[2026.04.02-20.07.36:225][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.333 ms (total: 4.01 sec)
+[2026.04.02-20.07.36:261][537]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.36:261][537]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.36:262][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.36:262][537]AssetCheck: /Game/Interfaces/Interface_Interact Validating asset
+[2026.04.02-20.07.37:938][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.37:974][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player/BP_Player] ([2] browsable assets)...
+[2026.04.02-20.07.37:975][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player/BP_Player]
+[2026.04.02-20.07.37:975][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player/BP_Player" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset" SILENT=true
+[2026.04.02-20.07.37:987][629]LogSavePackage: Moving output files for package: /Game/BP_Player/BP_Player
+[2026.04.02-20.07.37:987][629]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_PlayerC2BBE06D49603271842001A2E062ED32.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset'
+[2026.04.02-20.07.37:996][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.516 ms (total: 4.07 sec)
+[2026.04.02-20.07.38:030][629]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.38:030][629]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.38:030][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.38:030][629]AssetCheck: /Game/BP_Player/BP_Player Validating asset
+[2026.04.02-20.07.39:543][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.39:580][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_interactables/BP_PhysicsInteractable] ([2] browsable assets)...
+[2026.04.02-20.07.39:581][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_interactables/BP_PhysicsInteractable]
+[2026.04.02-20.07.39:581][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_interactables/BP_PhysicsInteractable" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_interactables/BP_PhysicsInteractable.uasset" SILENT=true
+[2026.04.02-20.07.39:586][714]LogSavePackage: Moving output files for package: /Game/BP_interactables/BP_PhysicsInteractable
+[2026.04.02-20.07.39:587][714]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_PhysicsInteractableF37A3B784FC71BD352E536A7E11E2763.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_interactables/BP_PhysicsInteractable.uasset'
+[2026.04.02-20.07.39:599][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.605 ms (total: 4.13 sec)
+[2026.04.02-20.07.39:636][714]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.39:636][714]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.39:636][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.39:636][714]AssetCheck: /Game/BP_interactables/BP_PhysicsInteractable Validating asset
+[2026.04.02-20.07.42:291][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.02-20.07.43:890][884]LogSlate: Window 'Save Content' being destroyed
+[2026.04.02-20.07.43:903][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.07.43:939][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.07.43:939][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.07.43:939][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.07.43:941][884]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.07.43:941][884]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile41A96E8F44B5A7B4FF74DF8AAAF4C966.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.07.43:956][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.435 ms (total: 4.18 sec)
+[2026.04.02-20.07.43:994][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.07.43:994][884]LogContentValidation: Enabled validators:
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.07.43:994][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.07.43:995][884]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.08.34:194][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.02-20.08.34:712][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.08.34:751][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.08.34:789][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.08.34:789][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.08.34:789][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.08.34:793][876]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.08.34:794][876]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy9DE42C264A4EF9E1272A479E025023DD.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.08.34:805][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.126 ms (total: 4.27 sec)
+[2026.04.02-20.08.34:846][876]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.08.34:846][876]LogContentValidation: Enabled validators:
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.08.34:846][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.08.34:846][876]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.10.06:061][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.02-20.10.07:186][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.10.07:225][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.10.07:265][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.10.07:265][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.10.07:265][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.10.07:270][863]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.10.07:271][863]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy22C4578C4FB4043830937E82A0F93E2F.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.10.07:280][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.629 ms (total: 4.37 sec)
+[2026.04.02-20.10.07:317][863]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.10.07:318][863]LogContentValidation: Enabled validators:
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.10.07:318][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.10.07:318][863]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.11.40:230][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.02-20.11.41:014][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.11.41:050][446]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.11.41:091][446]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.11.41:091][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.11.41:091][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.11.41:096][446]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.11.41:097][446]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy0DABB7954C359F752894708A55C93C39.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.11.41:106][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.737 ms (total: 4.46 sec)
+[2026.04.02-20.11.41:145][446]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.11.41:145][446]LogContentValidation: Enabled validators:
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.11.41:145][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.11.41:145][446]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.12.47:671][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4712.728516
+[2026.04.02-20.12.48:671][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.12.48:671][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4713.395020, Update Interval: 347.874390
+[2026.04.02-20.13.52:656][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.02-20.13.53:288][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.13.53:326][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.13.53:366][739]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.13.53:366][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.13.53:366][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.13.53:373][739]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.13.53:374][739]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyFED51BED434C1D839C021F8227838010.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.13.53:386][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.324 ms (total: 4.56 sec)
+[2026.04.02-20.13.53:422][739]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.13.53:422][739]LogContentValidation: Enabled validators:
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.13.53:422][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.13.53:422][739]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.15.37:625][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.04.02-20.15.38:257][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.15.38:292][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.15.38:328][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.15.38:328][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.15.38:328][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.15.38:336][496]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.15.38:337][496]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy669E24B04C27409C3D7F34ABE14052F3.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.15.38:348][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.909 ms (total: 4.65 sec)
+[2026.04.02-20.15.38:386][496]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.15.38:386][496]LogContentValidation: Enabled validators:
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.15.38:386][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.15.38:386][496]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.16.58:477][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C
+[2026.04.02-20.16.58:477][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C
+[2026.04.02-20.16.58:480][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.BP_Enemy_C_0
+[2026.04.02-20.16.58:483][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.BP_Enemy_C_0
+[2026.04.02-20.17.02:635][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.02-20.17.02:640][358]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.04.02-20.17.02:649][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C
+[2026.04.02-20.17.02:649][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C
+[2026.04.02-20.17.02:652][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.BP_Enemy_C_1
+[2026.04.02-20.17.02:655][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.BP_Enemy_C_1
+[2026.04.02-20.17.05:151][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.17.05:203][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.17.05:247][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.02-20.17.05:258][553]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.17.05:258][553]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMapC05EA3DA4EBA542E8C73C3BDD21F7F42.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.17.05:268][553]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.066
+[2026.04.02-20.17.05:277][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.058 ms (total: 4.77 sec)
+[2026.04.02-20.17.05:318][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.17.05:318][553]LogContentValidation: Enabled validators:
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.17.05:318][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.17.05:318][553]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.17.06:868][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.17.06:894][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.17.06:894][674]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.17.06:897][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002794s)
+[2026.04.02-20.17.06:897][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002826s)
+[2026.04.02-20.17.06:920][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.02-20.17.06:924][674]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.17.06:926][674]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2026.04.02-20.17.06:926][674]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.17.06:927][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.17.06:927][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.17.06:927][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.17.06:927][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.17.06:927][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.17.06:930][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.17.06:958][674]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.17.06:958][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.17.06:958][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.17.06:958][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.17.06:960][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.02-20.17.06:960][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.02-20.17.06:963][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.02-20.17.06:963][674]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.02-20.17.06:963][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.02-20.17.06:963][674]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.17.06:963][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.02-20.17.06:967][674]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.17.06:968][674]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.17.06
+[2026.04.02-20.17.06:968][674]LogWorld: Bringing up level for play took: 0.001208
+[2026.04.02-20.17.06:971][674]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.02-20.17.06:975][674]PIE: Server logged in
+[2026.04.02-20.17.06:976][674]PIE: Play in editor total start time 0.098 seconds.
+[2026.04.02-20.17.14:921][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.17.14:921][370]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.17.14:921][370]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.17.14:922][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.17.14:935][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.17.14:940][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.17.14:963][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.17.14:963][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.02-20.17.14:963][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.02-20.17.14:965][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.02-20.17.14:972][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.02-20.17.15:025][371]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.02-20.17.24:331][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.17.24:338][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.17.24:338][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.17.24:341][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002924s)
+[2026.04.02-20.17.24:341][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002964s)
+[2026.04.02-20.17.24:364][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.04.02-20.17.24:366][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.17.24:368][464]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2026.04.02-20.17.24:369][464]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.17.24:369][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.17.24:369][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.17.24:369][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.17.24:369][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.17.24:369][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.17.24:371][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.17.24:403][464]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.17.24:404][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.17.24:404][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.17.24:404][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.17.24:404][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.02-20.17.24:404][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.02-20.17.24:408][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.02-20.17.24:408][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.02-20.17.24:408][464]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.02-20.17.24:408][464]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.17.24:408][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.02-20.17.24:411][464]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.17.24:413][464]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.17.24
+[2026.04.02-20.17.24:413][464]LogWorld: Bringing up level for play took: 0.001161
+[2026.04.02-20.17.24:415][464]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.04.02-20.17.24:418][464]PIE: Server logged in
+[2026.04.02-20.17.24:419][464]PIE: Play in editor total start time 0.082 seconds.
+[2026.04.02-20.17.30:212][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.17.30:212][972]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.17.30:212][972]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.17.30:212][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.17.30:219][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.17.30:225][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.17.30:247][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.17.30:247][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.02-20.17.30:247][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.02-20.17.30:249][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.02-20.17.30:258][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.04.02-20.17.30:309][973]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.04.02-20.19.18:206][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5103.261719
+[2026.04.02-20.19.19:207][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.19.19:207][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5103.928711, Update Interval: 358.685272
+[2026.04.02-20.19.41:193][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.19.41:200][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.19.41:233][458]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.19.41:237][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004013s)
+[2026.04.02-20.19.41:237][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.004105s)
+[2026.04.02-20.19.41:264][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.04.02-20.19.41:271][458]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.19.41:272][458]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2026.04.02-20.19.41:273][458]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.19.41:273][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.19.41:273][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.19.41:273][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.19.41:273][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.19.41:273][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.19.41:276][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.19.41:304][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.19.41:305][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.19.41:305][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.19.41:305][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.19.41:305][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.02-20.19.41:305][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.02-20.19.41:309][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.02-20.19.41:309][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.02-20.19.41:309][458]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.02-20.19.41:310][458]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.19.41:310][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.02-20.19.41:312][458]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.19.41:313][458]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.19.41
+[2026.04.02-20.19.41:314][458]LogWorld: Bringing up level for play took: 0.001029
+[2026.04.02-20.19.41:316][458]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.04.02-20.19.41:319][458]PIE: Server logged in
+[2026.04.02-20.19.41:320][458]PIE: Play in editor total start time 0.12 seconds.
+[2026.04.02-20.19.54:514][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.19.54:514][369]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.19.54:514][369]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.19.54:514][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.19.54:530][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.19.54:537][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.19.54:558][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.02-20.19.54:558][369]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.02-20.19.54:558][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.02-20.19.54:562][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.02-20.19.54:566][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.19.54:569][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.04.02-20.19.54:623][370]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.04.02-20.20.16:678][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile
+[2026.04.02-20.20.16:679][831]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.02-20.20.37:685][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.02-20.21.24:605][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.02-20.21.25:322][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.21.25:358][592]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.21.25:367][592]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.21.25:367][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.21.25:367][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.21.25:370][592]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.21.25:370][592]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectileED9916DA4279C3AA3286E39E16AEDF48.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.21.25:381][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.869 ms (total: 4.83 sec)
+[2026.04.02-20.21.25:419][592]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.21.25:419][592]LogContentValidation: Enabled validators:
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.21.25:419][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.21.25:419][592]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.22.01:891][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.04.02-20.22.02:866][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.22.02:906][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.22.02:917][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.22.02:917][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.22.02:917][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.22.02:921][165]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.22.02:922][165]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile0958244E4DEA2940E4D51281E91FF49F.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.22.02:930][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.320 ms (total: 4.90 sec)
+[2026.04.02-20.22.02:973][165]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.22.02:973][165]LogContentValidation: Enabled validators:
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.22.02:973][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.22.02:973][165]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.22.58:616][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.02-20.22.59:318][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.22.59:358][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.22.59:395][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.22.59:395][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.22.59:395][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.22.59:403][508]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.22.59:403][508]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_EnemyA4DB8CA6488E337F22038189C515ED24.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.22.59:413][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.208 ms (total: 4.99 sec)
+[2026.04.02-20.22.59:454][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.22.59:454][508]LogContentValidation: Enabled validators:
+[2026.04.02-20.22.59:454][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.22.59:455][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.22.59:455][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.22.59:455][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.22.59:455][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.22.59:455][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.22.59:455][508]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.23.45:278][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.02-20.23.46:230][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.23.46:274][446]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.23.46:314][446]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.23.46:314][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.23.46:314][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.23.46:322][446]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.23.46:322][446]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy2B7FBF5343338FA984D02FA0D98427A2.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.23.46:332][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.178 ms (total: 5.09 sec)
+[2026.04.02-20.23.46:368][446]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.23.46:368][446]LogContentValidation: Enabled validators:
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.23.46:368][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.23.46:368][446]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.23.49:755][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.23.49:762][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.23.49:763][662]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.23.49:766][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003271s)
+[2026.04.02-20.23.49:766][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.003338s)
+[2026.04.02-20.23.49:789][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.02-20.23.49:793][662]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.23.49:795][662]LogPlayLevel: PIE: World Init took: (0.001855s)
+[2026.04.02-20.23.49:796][662]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.23.49:796][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.23.49:796][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.23.49:796][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.23.49:796][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.23.49:796][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.23.49:798][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.23.49:825][662]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.23.49:825][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.23.49:825][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.23.49:825][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.23.49:827][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.02-20.23.49:827][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.02-20.23.49:830][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.02-20.23.49:830][662]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.02-20.23.49:830][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.02-20.23.49:830][662]LogAudio: Display: Audio Device (ID: 18) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.23.49:830][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.02-20.23.49:833][662]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.23.49:834][662]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.23.49
+[2026.04.02-20.23.49:834][662]LogWorld: Bringing up level for play took: 0.001012
+[2026.04.02-20.23.49:837][662]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.04.02-20.23.49:840][662]PIE: Server logged in
+[2026.04.02-20.23.49:840][662]PIE: Play in editor total start time 0.078 seconds.
+[2026.04.02-20.24.01:475][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.24.01:475][636]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.24.01:475][636]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.24.01:475][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.24.01:495][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.24.01:501][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.24.01:524][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.02-20.24.01:524][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.02-20.24.01:524][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.02-20.24.01:526][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.02-20.24.01:531][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.24.01:534][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.04.02-20.24.01:593][637]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.04.02-20.25.01:255][602]LogSlate: Took 0.009406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.02-20.25.59:995][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5505.051758
+[2026.04.02-20.26.00:126][396]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.26.00:126][396]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5505.167969, Update Interval: 307.161469
+[2026.04.02-20.26.24:141][770]LogEditorTransaction: Undo Break Pin Links
+[2026.04.02-20.26.24:500][775]LogEditorTransaction: Undo Create Pin Link
+[2026.04.02-20.26.25:110][804]LogEditorTransaction: Undo Move Node
+[2026.04.02-20.26.25:576][826]LogEditorTransaction: Undo Add Node
+[2026.04.02-20.26.26:045][847]LogEditorTransaction: Undo Delete current selection
+[2026.04.02-20.26.26:682][878]LogEditorTransaction: Undo Move Node
+[2026.04.02-20.26.27:271][906]LogEditorTransaction: Undo Move Node
+[2026.04.02-20.26.27:804][930]LogEditorTransaction: Undo Move Node
+[2026.04.02-20.26.28:313][939]LogEditorTransaction: Undo Add Out Parameter
+[2026.04.02-20.27.29:765][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.04.02-20.27.30:595][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.27.30:631][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player/BP_Player] ([2] browsable assets)...
+[2026.04.02-20.27.30:631][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player/BP_Player]
+[2026.04.02-20.27.30:631][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player/BP_Player" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset" SILENT=true
+[2026.04.02-20.27.30:644][120]LogSavePackage: Moving output files for package: /Game/BP_Player/BP_Player
+[2026.04.02-20.27.30:645][120]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Player8900F63D428E7B1EEB82CA96CD9B3389.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset'
+[2026.04.02-20.27.30:657][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.493 ms (total: 5.15 sec)
+[2026.04.02-20.27.30:695][120]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.27.30:695][120]LogContentValidation: Enabled validators:
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.27.30:695][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.27.30:696][120]AssetCheck: /Game/BP_Player/BP_Player Validating asset
+[2026.04.02-20.28.22:605][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2026.04.02-20.28.23:494][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.28.23:533][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player/BP_Player] ([2] browsable assets)...
+[2026.04.02-20.28.23:533][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player/BP_Player]
+[2026.04.02-20.28.23:533][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player/BP_Player" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset" SILENT=true
+[2026.04.02-20.28.23:546][486]LogSavePackage: Moving output files for package: /Game/BP_Player/BP_Player
+[2026.04.02-20.28.23:547][486]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Player11691AEF4B737D5602F74B94887EE98D.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset'
+[2026.04.02-20.28.23:556][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.282 ms (total: 5.21 sec)
+[2026.04.02-20.28.23:592][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.28.23:592][486]LogContentValidation: Enabled validators:
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.28.23:592][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.28.23:592][486]AssetCheck: /Game/BP_Player/BP_Player Validating asset
+[2026.04.02-20.28.43:624][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.02-20.31.03:518][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.02-20.31.04:263][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.31.04:299][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.31.04:341][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.31.04:341][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.31.04:341][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.31.04:345][269]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.31.04:346][269]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile3E61B7C543398F9ACF222EA035B7C881.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.31.04:356][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.286 ms (total: 5.31 sec)
+[2026.04.02-20.31.04:395][269]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.31.04:395][269]LogContentValidation: Enabled validators:
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.31.04:395][269]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.31.04:395][269]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.31.55:159][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5860.194824
+[2026.04.02-20.31.56:158][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.31.56:158][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5860.859863, Update Interval: 358.687103
+[2026.04.02-20.32.14:642][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.04.02-20.32.14:645][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Lemon_DropMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.04.02-20.32.14:653][617]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lemon_DropMap_Auto4
+[2026.04.02-20.32.14:653][617]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap_Auto430957BFA4FDDBD0567759D93691070EA.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Lemon_DropMap_Auto4.umap'
+[2026.04.02-20.32.14:657][617]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lemon_DropMap' took 0.040
+[2026.04.02-20.32.14:657][617]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.04.02-20.32.14:658][617]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.32.14:699][617]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.32.14:699][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.32.14:699][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.04.02-20.32.14:703][617]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_TurretProjectile_Auto4
+[2026.04.02-20.32.14:703][617]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile_Auto4D09B8CF0442F42BA8ABCCC9FFA4F7DA7.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Saved/Autosaves/Game/Enemy/BP_TurretProjectile_Auto4.uasset'
+[2026.04.02-20.32.14:704][617]LogFileHelpers: Auto-saving content packages took 0.048
+[2026.04.02-20.32.16:542][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.02-20.32.17:146][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.32.17:181][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.32.17:223][753]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.32.17:223][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.32.17:223][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.32.17:228][753]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.32.17:228][753]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile5914501240A4BDF2D12A06AA1410E616.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.32.17:240][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.667 ms (total: 5.40 sec)
+[2026.04.02-20.32.17:279][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.32.17:279][753]LogContentValidation: Enabled validators:
+[2026.04.02-20.32.17:279][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.32.17:279][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.32.17:279][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.32.17:280][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.32.17:280][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.32.17:280][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.32.17:280][753]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.32.17:962][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.32.18:001][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.32.18:001][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.32.18:001][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.32.18:006][794]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.32.18:006][794]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectileBC1F334B461B68020E3913A170A8401B.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.32.18:017][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.379 ms (total: 5.46 sec)
+[2026.04.02-20.32.18:058][794]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.32.18:058][794]LogContentValidation: Enabled validators:
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.32.18:058][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.32.18:058][794]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.32.43:586][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.02-20.32.44:214][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.32.44:251][355]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.32.44:291][355]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.32.44:291][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.32.44:291][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.32.44:296][355]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.32.44:296][355]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile85BA6D9B4C608D7E077200BCABA5B628.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.32.44:307][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.381 ms (total: 5.55 sec)
+[2026.04.02-20.32.44:346][355]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.32.44:347][355]LogContentValidation: Enabled validators:
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.32.44:347][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.32.44:347][355]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.33.06:386][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.02-20.33.07:596][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.33.07:623][501]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.33.07:635][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.33.07:635][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.33.07:635][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.33.07:640][501]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.33.07:641][501]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile0B84E7A04EB4796A24ED05AD45FF7021.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.33.07:650][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.938 ms (total: 5.60 sec)
+[2026.04.02-20.33.07:691][501]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.33.07:691][501]LogContentValidation: Enabled validators:
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.33.07:691][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.33.07:691][501]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.33.12:122][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.02-20.33.13:394][723]LogSlate: Window 'Save Content' being destroyed
+[2026.04.02-20.33.13:404][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.33.13:443][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.33.13:490][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.02-20.33.13:501][723]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.33.13:502][723]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap6258B1FF4D64AEB22BDAAE984D3FF078.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.33.13:512][723]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.070
+[2026.04.02-20.33.13:523][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.657 ms (total: 5.72 sec)
+[2026.04.02-20.33.13:568][723]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.33.13:568][723]LogContentValidation: Enabled validators:
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.33.13:568][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.33.13:568][723]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.33.20:283][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.33.20:291][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.33.20:330][ 97]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.33.20:332][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002391s)
+[2026.04.02-20.33.20:332][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002440s)
+[2026.04.02-20.33.20:354][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.04.02-20.33.20:357][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.33.20:358][ 97]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2026.04.02-20.33.20:359][ 97]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.33.20:359][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.33.20:359][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.33.20:359][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.33.20:359][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.33.20:359][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.33.20:361][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.33.20:390][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.33.20:390][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.33.20:390][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.33.20:390][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.33.20:391][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.02-20.33.20:391][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.02-20.33.20:393][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.02-20.33.20:393][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.02-20.33.20:393][ 97]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.02-20.33.20:393][ 97]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.33.20:393][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.02-20.33.20:396][ 97]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.33.20:397][ 97]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.33.20
+[2026.04.02-20.33.20:397][ 97]LogWorld: Bringing up level for play took: 0.001022
+[2026.04.02-20.33.20:400][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.02-20.33.20:404][ 97]PIE: Server logged in
+[2026.04.02-20.33.20:405][ 97]PIE: Play in editor total start time 0.113 seconds.
+[2026.04.02-20.33.28:518][793]LogBlueprintUserMessages: [BP_Player_C_0] -10.0
+[2026.04.02-20.33.30:024][927]LogBlueprintUserMessages: [BP_Player_C_0] -20.0
+[2026.04.02-20.33.30:523][971]LogBlueprintUserMessages: [BP_Player_C_0] -30.0
+[2026.04.02-20.33.35:286][381]LogBlueprintUserMessages: [BP_Player_C_0] -40.0
+[2026.04.02-20.33.35:785][424]LogBlueprintUserMessages: [BP_Player_C_0] -50.0
+[2026.04.02-20.33.36:290][468]LogBlueprintUserMessages: [BP_Player_C_0] -60.0
+[2026.04.02-20.33.36:789][511]LogBlueprintUserMessages: [BP_Player_C_0] -70.0
+[2026.04.02-20.33.37:284][554]LogBlueprintUserMessages: [BP_Player_C_0] -80.0
+[2026.04.02-20.33.37:775][596]LogBlueprintUserMessages: [BP_Player_C_0] -90.0
+[2026.04.02-20.33.38:284][640]LogBlueprintUserMessages: [BP_Player_C_0] -100.0
+[2026.04.02-20.33.38:779][683]LogBlueprintUserMessages: [BP_Player_C_0] -110.0
+[2026.04.02-20.33.39:302][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.33.39:302][723]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.33.39:302][723]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.33.39:302][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.33.39:322][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.33.39:329][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.33.39:350][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.33.39:351][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.02-20.33.39:351][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.02-20.33.39:354][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.02-20.33.39:361][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.04.02-20.33.39:415][724]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.02-20.33.43:701][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.33.43:742][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.33.43:790][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.02-20.33.43:802][829]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.33.43:803][829]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap4F6E2489447AB91753E2109777D12C2D.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.33.43:813][829]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.070
+[2026.04.02-20.33.43:825][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.110 ms (total: 5.85 sec)
+[2026.04.02-20.33.43:864][829]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.33.43:864][829]LogContentValidation: Enabled validators:
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.33.43:864][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.33.43:864][829]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.35.36:140][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.02-20.35.36:792][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.35.36:829][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player/BP_Player] ([2] browsable assets)...
+[2026.04.02-20.35.36:829][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player/BP_Player]
+[2026.04.02-20.35.36:829][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player/BP_Player" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset" SILENT=true
+[2026.04.02-20.35.36:845][703]LogSavePackage: Moving output files for package: /Game/BP_Player/BP_Player
+[2026.04.02-20.35.36:846][703]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Player3E1282D149879EC47557E797EF3AC07E.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset'
+[2026.04.02-20.35.36:858][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.848 ms (total: 5.91 sec)
+[2026.04.02-20.35.36:895][703]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.35.36:895][703]LogContentValidation: Enabled validators:
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.35.36:895][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.35.36:895][703]AssetCheck: /Game/BP_Player/BP_Player Validating asset
+[2026.04.02-20.35.48:116][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.02-20.35.49:038][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.35.49:079][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player/BP_Player] ([2] browsable assets)...
+[2026.04.02-20.35.49:079][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player/BP_Player]
+[2026.04.02-20.35.49:079][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player/BP_Player" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset" SILENT=true
+[2026.04.02-20.35.49:096][354]LogSavePackage: Moving output files for package: /Game/BP_Player/BP_Player
+[2026.04.02-20.35.49:097][354]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_PlayerE21BFC704FEA49D861A7C4A1A4B34AFE.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/BP_Player/BP_Player.uasset'
+[2026.04.02-20.35.49:108][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.566 ms (total: 5.98 sec)
+[2026.04.02-20.35.49:146][354]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.35.49:146][354]LogContentValidation: Enabled validators:
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.35.49:146][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.35.49:146][354]AssetCheck: /Game/BP_Player/BP_Player Validating asset
+[2026.04.02-20.36.10:997][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.02-20.36.10:997][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.02-20.36.10:999][414]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.StaticMeshActor_1
+[2026.04.02-20.36.10:999][414]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Lemon_DropMap.Lemon_DropMap:PersistentLevel.StaticMeshActor_1
+[2026.04.02-20.36.30:236][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.36.30:269][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.36.30:313][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.02-20.36.30:328][918]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.36.30:329][918]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMapF62CDB254E5E3E43203FFDB9A73F9079.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.36.30:338][918]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.070
+[2026.04.02-20.36.30:349][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.631 ms (total: 6.09 sec)
+[2026.04.02-20.36.30:384][918]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.36.30:384][918]LogContentValidation: Enabled validators:
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.36.30:384][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.36.30:384][918]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.36.32:436][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.36.32:443][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.36.32:465][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.36.32:467][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002281s)
+[2026.04.02-20.36.32:467][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002325s)
+[2026.04.02-20.36.32:490][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.02-20.36.32:492][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.36.32:493][ 86]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2026.04.02-20.36.32:495][ 86]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.36.32:495][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.36.32:496][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.36.32:496][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.36.32:496][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.36.32:496][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.36.32:499][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.36.32:523][ 86]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.36.32:525][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.36.32:525][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.36.32:525][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.36.32:526][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.02-20.36.32:526][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.02-20.36.32:528][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.02-20.36.32:528][ 86]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.02-20.36.32:528][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.02-20.36.32:528][ 86]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.36.32:529][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.02-20.36.32:531][ 86]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.36.32:532][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.36.32
+[2026.04.02-20.36.32:533][ 86]LogWorld: Bringing up level for play took: 0.001057
+[2026.04.02-20.36.32:535][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.04.02-20.36.32:537][ 86]PIE: Server logged in
+[2026.04.02-20.36.32:538][ 86]PIE: Play in editor total start time 0.095 seconds.
+[2026.04.02-20.36.38:214][566]LogBlueprintUserMessages: [BP_Player_C_0] 90.0
+[2026.04.02-20.36.38:701][608]LogBlueprintUserMessages: [BP_Player_C_0] 80.0
+[2026.04.02-20.36.39:212][650]LogBlueprintUserMessages: [BP_Player_C_0] 70.0
+[2026.04.02-20.36.39:704][693]LogBlueprintUserMessages: [BP_Player_C_0] 60.0
+[2026.04.02-20.36.40:195][737]LogBlueprintUserMessages: [BP_Player_C_0] 50.0
+[2026.04.02-20.36.40:704][780]LogBlueprintUserMessages: [BP_Player_C_0] 40.0
+[2026.04.02-20.36.41:204][818]LogBlueprintUserMessages: [BP_Player_C_0] 30.0
+[2026.04.02-20.36.41:708][863]LogBlueprintUserMessages: [BP_Player_C_0] 20.0
+[2026.04.02-20.36.42:208][909]LogBlueprintUserMessages: [BP_Player_C_0] 10.0
+[2026.04.02-20.36.42:701][957]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2026.04.02-20.36.43:291][ 15]LogBlueprintUserMessages: [BP_Player_C_0] -10.0
+[2026.04.02-20.36.43:291][ 15]Cmd: quit
+[2026.04.02-20.36.43:292][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.36.43:293][ 15]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.36.43:326][ 15]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.36.43:326][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.36.43:338][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.36.43:344][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.36.43:368][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.36.43:368][ 15]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.02-20.36.43:368][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.02-20.36.43:370][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.02-20.36.43:378][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.04.02-20.36.43:487][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.02-20.37.43:235][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.02-20.37.43:971][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.37.44:007][312]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.37.44:014][312]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.37.44:015][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.37.44:015][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.37.44:021][312]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.37.44:022][312]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile1812F29642603B7003C244B42A09FB71.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.37.44:032][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.307 ms (total: 6.16 sec)
+[2026.04.02-20.37.44:069][312]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.37.44:069][312]LogContentValidation: Enabled validators:
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.37.44:069][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.37.44:069][312]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.37.55:625][935]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.37.55:635][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.37.55:635][935]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.37.55:637][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002271s)
+[2026.04.02-20.37.55:637][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002307s)
+[2026.04.02-20.37.55:659][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.02-20.37.55:664][935]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.37.55:666][935]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2026.04.02-20.37.55:667][935]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.37.55:667][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.37.55:667][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.37.55:667][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.37.55:667][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.37.55:667][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.37.55:670][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.37.55:696][935]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.37.55:697][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.37.55:697][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.37.55:697][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.37.55:698][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.02-20.37.55:698][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.04.02-20.37.55:701][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.02-20.37.55:701][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.02-20.37.55:701][935]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.02-20.37.55:701][935]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.37.55:701][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.02-20.37.55:704][935]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.37.55:706][935]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.37.55
+[2026.04.02-20.37.55:706][935]LogWorld: Bringing up level for play took: 0.001098
+[2026.04.02-20.37.55:708][935]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.02-20.37.55:711][935]PIE: Server logged in
+[2026.04.02-20.37.55:712][935]PIE: Play in editor total start time 0.078 seconds.
+[2026.04.02-20.38.05:933][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.38.05:933][819]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.38.05:934][819]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.38.05:934][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.38.05:941][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.38.05:947][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.38.05:969][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.02-20.38.05:969][819]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.02-20.38.05:969][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.02-20.38.05:970][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.02-20.38.05:976][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.38.05:978][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.02-20.38.06:051][820]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.02-20.38.31:773][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6256.834473
+[2026.04.02-20.38.31:905][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.02-20.38.31:905][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6256.948730, Update Interval: 310.896942
+[2026.04.02-20.38.34:312][ 45]LogEditorTransaction: Undo Make New Scene Root
+[2026.04.02-20.38.41:135][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.02-20.40.10:172][180]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.40.10:180][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.40.10:180][180]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.40.10:183][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002586s)
+[2026.04.02-20.40.10:183][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002627s)
+[2026.04.02-20.40.10:208][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.02-20.40.10:214][180]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.40.10:216][180]LogPlayLevel: PIE: World Init took: (0.001950s)
+[2026.04.02-20.40.10:217][180]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.40.10:217][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.40.10:217][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.40.10:217][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.40.10:217][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.40.10:217][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.40.10:220][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.40.10:247][180]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.40.10:248][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.40.10:248][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.40.10:248][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.40.10:248][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.02-20.40.10:248][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.04.02-20.40.10:251][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.02-20.40.10:251][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.02-20.40.10:251][180]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.02-20.40.10:251][180]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.40.10:251][180]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.02-20.40.10:254][180]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.40.10:256][180]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.40.10
+[2026.04.02-20.40.10:256][180]LogWorld: Bringing up level for play took: 0.001080
+[2026.04.02-20.40.10:258][180]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.04.02-20.40.10:261][180]PIE: Server logged in
+[2026.04.02-20.40.10:262][180]PIE: Play in editor total start time 0.083 seconds.
+[2026.04.02-20.40.14:370][539]LogBlueprintUserMessages: [BP_Player_C_0] 90.0
+[2026.04.02-20.40.14:873][584]LogBlueprintUserMessages: [BP_Player_C_0] 80.0
+[2026.04.02-20.40.17:371][806]LogBlueprintUserMessages: [BP_Player_C_0] 70.0
+[2026.04.02-20.40.18:412][900]LogBlueprintUserMessages: [BP_Player_C_0] 60.0
+[2026.04.02-20.40.18:910][945]LogBlueprintUserMessages: [BP_Player_C_0] 50.0
+[2026.04.02-20.40.19:440][993]LogBlueprintUserMessages: [BP_Player_C_0] 40.0
+[2026.04.02-20.40.20:445][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.40.20:445][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.40.20:445][ 81]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.40.20:445][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.40.20:452][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.40.20:457][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.40.20:480][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.02-20.40.20:480][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.02-20.40.20:480][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.04.02-20.40.20:482][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.04.02-20.40.20:487][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.40.20:490][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.02-20.40.20:565][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.04.02-20.40.30:984][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.02-20.40.32:173][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.40.32:212][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.04.02-20.40.32:222][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.04.02-20.40.32:222][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_TurretProjectile]
+[2026.04.02-20.40.32:222][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_TurretProjectile" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.04.02-20.40.32:226][775]LogSavePackage: Moving output files for package: /Game/Enemy/BP_TurretProjectile
+[2026.04.02-20.40.32:227][775]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_TurretProjectile1B6AD3064DFF316DF5BC868AA1C39F18.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_TurretProjectile.uasset'
+[2026.04.02-20.40.32:237][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.627 ms (total: 6.22 sec)
+[2026.04.02-20.40.32:278][775]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.40.32:278][775]LogContentValidation: Enabled validators:
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.40.32:278][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.40.32:278][775]AssetCheck: /Game/Enemy/BP_TurretProjectile Validating asset
+[2026.04.02-20.40.35:019][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.40.35:029][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.40.35:065][943]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.40.35:069][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003842s)
+[2026.04.02-20.40.35:069][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.003918s)
+[2026.04.02-20.40.35:097][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.04.02-20.40.35:105][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.40.35:107][943]LogPlayLevel: PIE: World Init took: (0.002900s)
+[2026.04.02-20.40.35:109][943]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.40.35:109][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.40.35:109][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.40.35:109][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.40.35:109][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.40.35:109][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.40.35:113][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.40.35:158][943]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.40.35:159][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.40.35:159][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.40.35:159][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.40.35:159][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.04.02-20.40.35:159][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.04.02-20.40.35:163][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.04.02-20.40.35:163][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.04.02-20.40.35:163][943]LogInit: FAudioDevice initialized with ID 23.
+[2026.04.02-20.40.35:163][943]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.40.35:163][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.02-20.40.35:167][943]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.40.35:168][943]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.40.35
+[2026.04.02-20.40.35:168][943]LogWorld: Bringing up level for play took: 0.001148
+[2026.04.02-20.40.35:171][943]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.04.02-20.40.35:175][943]PIE: Server logged in
+[2026.04.02-20.40.35:177][943]PIE: Play in editor total start time 0.148 seconds.
+[2026.04.02-20.40.52:397][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.40.52:397][592]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.40.52:397][592]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.40.52:398][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.40.52:405][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.40.52:410][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.40.52:432][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.02-20.40.52:432][592]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.02-20.40.52:433][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.04.02-20.40.52:434][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.04.02-20.40.52:439][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.40.52:442][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.02-20.40.52:517][593]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.04.02-20.41.30:757][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.02-20.41.31:783][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.41.31:832][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/BP_Enemy] ([2] browsable assets)...
+[2026.04.02-20.41.31:842][865]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Enemy.BP_Enemy]
+[2026.04.02-20.41.31:843][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Enemy]
+[2026.04.02-20.41.31:843][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2026.04.02-20.41.31:850][865]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2026.04.02-20.41.31:850][865]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/BP_Enemy74D2693E44D29C465386FD911D300FD1.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Enemy/BP_Enemy.uasset'
+[2026.04.02-20.41.31:860][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.287 ms (total: 6.30 sec)
+[2026.04.02-20.41.31:900][865]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.41.31:900][865]LogContentValidation: Enabled validators:
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.41.31:900][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.41.31:900][865]AssetCheck: /Game/Enemy/BP_Enemy Validating asset
+[2026.04.02-20.41.37:718][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.41.37:754][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.41.37:800][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.04.02-20.41.37:817][213]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.41.37:818][213]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap15EB5CB240DD4998DC9EE4A4B9D38320.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.41.37:827][213]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.073
+[2026.04.02-20.41.37:837][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.197 ms (total: 6.42 sec)
+[2026.04.02-20.41.37:879][213]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.41.37:879][213]LogContentValidation: Enabled validators:
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.41.37:879][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.41.37:879][213]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.41.39:397][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.02-20.41.39:404][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.02-20.41.39:404][339]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.41.39:407][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002351s)
+[2026.04.02-20.41.39:407][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lemon_DropMap.Lemon_DropMap to /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap (0.002388s)
+[2026.04.02-20.41.39:430][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.02-20.41.39:433][339]LogChaosDD: Creating Chaos Debug Draw Scene for world Lemon_DropMap
+[2026.04.02-20.41.39:434][339]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2026.04.02-20.41.39:435][339]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.02-20.41.39:435][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.02-20.41.39:435][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.02-20.41.39:435][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.02-20.41.39:435][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.02-20.41.39:435][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.02-20.41.39:438][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.02-20.41.39:464][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.02-20.41.39:465][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.02-20.41.39:465][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.02-20.41.39:465][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.02-20.41.39:465][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.04.02-20.41.39:465][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.04.02-20.41.39:468][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.04.02-20.41.39:468][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.04.02-20.41.39:468][339]LogInit: FAudioDevice initialized with ID 24.
+[2026.04.02-20.41.39:468][339]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lemon_DropMap'.
+[2026.04.02-20.41.39:468][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.02-20.41.39:470][339]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.02-20.41.39:471][339]LogWorld: Bringing World /Game/UEDPIE_0_Lemon_DropMap.Lemon_DropMap up for play (max tick rate 0) at 2026.04.02-16.41.39
+[2026.04.02-20.41.39:472][339]LogWorld: Bringing up level for play took: 0.001022
+[2026.04.02-20.41.39:474][339]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.02-20.41.39:477][339]PIE: Server logged in
+[2026.04.02-20.41.39:478][339]PIE: Play in editor total start time 0.074 seconds.
+[2026.04.02-20.41.43:980][727]LogBlueprintUserMessages: [BP_Player_C_0] 90.0
+[2026.04.02-20.41.44:486][772]LogBlueprintUserMessages: [BP_Player_C_0] 80.0
+[2026.04.02-20.41.45:949][901]LogBlueprintUserMessages: [BP_Player_C_0] 70.0
+[2026.04.02-20.41.46:442][944]LogBlueprintUserMessages: [BP_Player_C_0] 60.0
+[2026.04.02-20.41.51:429][396]LogBlueprintUserMessages: [BP_Player_C_0] 50.0
+[2026.04.02-20.41.51:927][443]LogBlueprintUserMessages: [BP_Player_C_0] 40.0
+[2026.04.02-20.41.52:966][545]LogBlueprintUserMessages: [BP_Player_C_0] 30.0
+[2026.04.02-20.41.53:434][591]LogBlueprintUserMessages: [BP_Player_C_0] 20.0
+[2026.04.02-20.41.53:915][639]LogBlueprintUserMessages: [BP_Player_C_0] 10.0
+[2026.04.02-20.41.54:371][684]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2026.04.02-20.41.55:812][820]LogBlueprintUserMessages: [BP_Player_C_0] -10.0
+[2026.04.02-20.41.55:812][820]Cmd: quit
+[2026.04.02-20.41.55:813][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.41.55:813][820]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lemon_DropMap
+[2026.04.02-20.41.55:853][820]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.41.55:854][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.41.55:861][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.02-20.41.55:867][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.41.55:891][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.02-20.41.55:891][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.02-20.41.55:891][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.04.02-20.41.55:894][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.04.02-20.41.55:902][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.02-20.41.55:981][821]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.02-20.42.05:366][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.42.05:407][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.42.05:451][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.02-20.42.05:462][947]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.42.05:464][947]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap4740E5014916DFA6E5A1979C53FE4DF0.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.42.05:474][947]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.067
+[2026.04.02-20.42.05:486][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.104 ms (total: 6.54 sec)
+[2026.04.02-20.42.05:523][947]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.42.05:523][947]LogContentValidation: Enabled validators:
+[2026.04.02-20.42.05:523][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.42.05:524][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.42.05:524][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.42.05:524][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.42.05:524][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.42.05:524][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.42.05:524][947]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.42.06:032][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.02-20.42.06:084][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lemon_DropMap" FILE="../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.02-20.42.06:122][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.04.02-20.42.06:134][984]LogSavePackage: Moving output files for package: /Game/Lemon_DropMap
+[2026.04.02-20.42.06:134][984]LogSavePackage: Moving '../../../../../Lemon Drop game/Lemon_Drop/Saved/Lemon_DropMap70E9511848FEA1EC4DF5F79DE5B2C2E9.tmp' to '../../../../../Lemon Drop game/Lemon_Drop/Content/Lemon_DropMap.umap'
+[2026.04.02-20.42.06:143][984]LogFileHelpers: Saving map 'Lemon_DropMap' took 0.059
+[2026.04.02-20.42.06:152][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.370 ms (total: 6.66 sec)
+[2026.04.02-20.42.06:188][984]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.02-20.42.06:188][984]LogContentValidation: Enabled validators:
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.02-20.42.06:188][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.02-20.42.06:188][984]AssetCheck: /Game/Lemon_DropMap Validating asset
+[2026.04.02-20.42.08:675][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.02-20.42.08:714][172]LogStall: Shutdown...
+[2026.04.02-20.42.08:715][172]LogStall: Shutdown complete.
+[2026.04.02-20.42.08:751][172]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.08:752][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.08:830][172]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.08:830][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.08:902][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.02-20.42.08:902][172]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.08:902][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.08:982][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.02-20.42.08:982][172]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.08:982][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:055][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.02-20.42.09:055][172]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:055][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:132][172]LogSlate: Window 'BP_TurretProjectile' being destroyed
+[2026.04.02-20.42.09:144][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.02-20.42.09:144][172]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:144][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:209][172]LogSlate: Window 'Lemon_Drop - Unreal Editor' being destroyed
+[2026.04.02-20.42.09:410][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.04.02-20.42.09:459][172]Cmd: QUIT_EDITOR
+[2026.04.02-20.42.09:459][173]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.02-20.42.09:464][173]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.02-20.42.09:465][173]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.02-20.42.09:465][173]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.02-20.42.09:466][173]LogWorld: UWorld::CleanupWorld for Lemon_DropMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:466][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:479][173]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.02-20.42.09:480][173]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.02-20.42.09:491][173]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:492][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:496][173]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:496][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:500][173]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:500][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:504][173]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:504][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:508][173]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:508][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:513][173]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:513][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:517][173]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.02-20.42.09:517][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.02-20.42.09:522][173]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.02-20.42.09:525][173]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.04.02-20.42.09:525][173]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.04.02-20.42.09:525][173]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.04.02-20.42.09:537][173]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.02-20.42.09:538][173]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.02-20.42.09:538][173]LogAudio: Display: Audio Device unregistered from world 'Lemon_DropMap'.
+[2026.04.02-20.42.09:538][173]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.02-20.42.09:538][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.02-20.42.09:541][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.02-20.42.09:579][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.02-20.42.09:579][173]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.02-20.42.09:580][173]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.04.02-20.42.09:585][173]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.02-20.42.09:585][173]LogExit: Preparing to exit.
+[2026.04.02-20.42.09:623][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.04.02-20.42.09:628][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:628][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:629][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:630][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.09:631][173]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.02-20.42.10:735][173]LogEditorDataStorage: Deinitializing
+[2026.04.02-20.42.10:888][173]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.02-20.42.10:931][173]LogExit: Editor shut down
+[2026.04.02-20.42.10:936][173]LogExit: Transaction tracking system shut down
+[2026.04.02-20.42.11:154][173]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 20.
+[2026.04.02-20.42.11:195][173]LogExit: Object subsystem successfully closed.
+[2026.04.02-20.42.11:213][173]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.02-20.42.12:186][173]LogMemoryProfiler: Shutdown
+[2026.04.02-20.42.12:186][173]LogNetworkingProfiler: Shutdown
+[2026.04.02-20.42.12:186][173]LoadingProfiler: Shutdown
+[2026.04.02-20.42.12:186][173]LogTimingProfiler: Shutdown
+[2026.04.02-20.42.12:612][173]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.02-20.42.12:650][173]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.02-20.42.12:650][173]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B769B0986-4205-7D04-A8F8-C5B0197BF6B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=fc6e06184dce3087a0f558b03d9e3b2a%7Ce52dd8d7504745c09b60f8064b1e1770%7C9f51ee51-3068-4ecb-82e7-8be365f06531&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.02-20.42.13:198][173]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.02-20.42.13:198][173]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.04.02-20.42.13:198][173]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.02-20.42.13:198][173]RenderDocPlugin: plugin has been unloaded.
+[2026.04.02-20.42.13:198][173]LogXGEController: Cleaning working directory: C:/Users/PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.02-20.42.13:201][173]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.02-20.42.13:201][173]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.02-20.42.13:201][173]LogPakFile: Destroying PakPlatformFile
+[2026.04.02-20.42.13:735][173]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.02-20.42.13:767][173]LogExit: Exiting.
+[2026.04.02-20.42.13:786][173]Log file closed, 04/02/26 16:42:13
